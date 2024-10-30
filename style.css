@@ -10,10 +10,6 @@ header {background-color: blue;
 }
 footer {background-color: aquamarine;
         margin-left: 25%;
-        margin-right: 20%;
-        
-body{background-color: rgb(18, 18, 158);
-}
-h2 {padding-left: 15%;
-margin-right: 40%;
+        margin-right: 20%;}
+body{background-color: rgb(110, 200, 241);
 }
